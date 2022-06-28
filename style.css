@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&family=Roboto+Slab&family=Roboto:ital,wght@0,900;1,700;1,900&family=Sonsie+One&display=swap');
+
+html {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Sonsie One', cursive;
+}
+.container{
+    margin-top: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}
+.box_1 {
+    background-color: rgb(19, 18, 18);
+    color: rgb(250, 249, 248);
+    width: 3rem;
+    height: 3rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+}
+.space{
+    margin-left: 1rem;
+}
+.area{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50rem;
+}
+.fa-github-square{
+    color: rgb(240, 56, 86);
+    font-size: 2rem;
+}
+.fa-stack-overflow {
+    color: rgb(240, 56, 86);
+    font-size: 2rem;
+    margin-left: 0.5rem;
+}
+.fa-linkedin-in {
+    color: rgb(240, 56, 86);
+    font-size: 2rem;
+    margin-left: 0.5rem;
+}
+.picture{
+    margin-left: -5rem;
+}
+.avt {
+    background: url(https://scontent.fdad1-1.fna.fbcdn.net/v/t1.6435-9/125563821_459090571738177_7129479968334963314_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Hg66uf-5RnYAX_ao7KI&_nc_ht=scontent.fdad1-1.fna&oh=00_AT9QHw6xqAAyGHfkkc6v6pIQitpFoE4t2bed1hESFMHUMw&oe=62DDE56E);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 30rem;
+    height: 30rem;
+    border-radius: 5px;
+}
+.relax{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+}
+.air{
+    color: rgb(231, 10, 47);
+    font-size: 2rem;
+}
+.four{
+    color: black;
+    font-size: 0.9rem;
+}
+.big{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 3rem;
+    margin-left: -13rem;
+}
+.color{
+    background-color: #F26464;
+    width: 8rem;
+    height: 0.15rem;
+    margin-left: -0.2rem;
+    margin-top: -0.5rem;
+}
+.hr{
+    margin-top: 5rem;
+    margin-left: 7.2rem;
+}
+.auto_space{
+    margin-bottom: 5rem;
+}
+.click{
+    margin-top: 4rem;
+    margin-left: 46rem;
+    background-color: white;
+    width: 17rem;
+    height: 4rem;
+    border-radius: 2rem;
+    color: rgb(250, 95, 121);
+    border: 0.3rem solid pink;
+    font-size: 1.1rem;
+}
+.click_2{
+    background-color: black;
+    width: 13rem;
+    height: 3rem;
+    border-radius: 2rem;
+    color: rgb(250, 95, 121);
+    border: 0.3rem solid pink;
+    font-size: 1.1rem;
+    margin-top: 2rem;
+    margin-left: 6.5rem;
+}
+.form_1{
+    opacity: 0.5;
+    font-size: 1.5rem;
+    color: silver;
+    margin-left: 5rem;
+}
+.form_2{
+    color: rgb(253, 252, 252);
+    font-size: 2.5rem;
+}
+.form_3{
+    margin-top: -1rem;
+    color: white;
+    margin-left: 5rem;
+}
+.grey{
+    opacity: 0.5;
+    color: silver;
+    margin-left: -14rem;
+}
+.fa-copyright{
+    margin-top: 10rem;
+}
+.background_color{
+    background: black;
+    height: 40rem;
+    display: flex;
+    justify-content: center;
+    width:122rem;
+    align-items: center;
+    margin-top: 2rem;
+}
+
